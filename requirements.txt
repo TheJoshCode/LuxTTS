@@ -1,5 +1,3 @@
---find-links https://k2-fsa.github.io/icefall/piper_phonemize.html
-
 torch
 torchaudio
 numpy
@@ -20,6 +18,6 @@ inflect
 
 # Tokenization
 jieba
-piper_phonemize
+piper-phonemize-fix
 pypinyin
 setuptools<81
